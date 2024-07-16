@@ -3,13 +3,13 @@
 This repository contains the Machine Learning model component of the Human Activity Recognition (HAR) System. The model is built using XGBoost and is designed to classify various human activities and detect falls.
 
 ## Table of Contents
-- [Introduction](#What_is_HAR_SYSTEM)
+- [What_is_HAR_SYSTEM](#What_is_HAR_SYSTEM)
 - [Features](#features)
 - [Usage](#usage)
 - [Feature Engineering](#feature-engineering)
-- [License](#Analysis)
+- [Analysis](#Analysis)
 
-## What is HAR SYSTEM
+## What_is_HAR_SYSTEM
 The Human Activity Recognition System is an advanced solution designed to monitor and classify human activities using data from accelerometer and gyroscope sensors. This system is particularly useful for elderly care, providing real-time activity recognition and fall detection to ensure the safety and well-being of individuals. The system includes a mobile application developed with Flutter, a machine learning model using XGBoost, and a backend built with Node.js.
 
 ## Features
